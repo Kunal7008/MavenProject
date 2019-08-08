@@ -11,4 +11,8 @@ public class SeleniumTest {
     public void elements(){
         System.out.println("all the locaters");
     }
+    @Test
+    public void elements(){
+        System.out.println("all the locaters");
+    }
 }

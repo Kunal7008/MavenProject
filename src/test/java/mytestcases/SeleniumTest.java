@@ -12,7 +12,7 @@ public class SeleniumTest {
         System.out.println("all the locaters");
     }
     @Test
-    public void elements(){
+    public void elements3(){
         System.out.println("all the locaters");
     }
 }

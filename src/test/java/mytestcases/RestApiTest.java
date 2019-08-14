@@ -15,4 +15,12 @@ public class RestApiTest {
     public void deleteTwitter2(){
         System.out.println("all the tweets for me ");
     }
+    @Test
+    public void deleteTwitter5(){
+        System.out.println("all the tweets for me ");
+    }
+    @Test
+    public void deleteTwitter67(){
+        System.out.println("all the tweets for me ");
+    }
 }

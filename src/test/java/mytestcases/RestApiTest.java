@@ -20,7 +20,8 @@ public class RestApiTest {
         System.out.println("all the tweets for me ");
     }
     @Test
-    public void deleteTwitter67(){
+    public void deleteTwitter674(){
         System.out.println("all the tweets for me ");
     }
+
 }
